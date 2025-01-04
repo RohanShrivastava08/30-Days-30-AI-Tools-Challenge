@@ -1,6 +1,7 @@
 **Overview:** 
 
-![[ChatGPT1.png]]
+![ChatGPT1](https://github.com/user-attachments/assets/6362f31e-f023-4a41-aa83-49c5706c6e5c)
+
 
 OpenAI’s **ChatGPT** is one of the most powerful AI tools available for natural language processing. It generates human-like text and can answer questions, solve problems, and assist with a variety of writing tasks. It is an extremely versatile tool, making it suitable for everything from simple Q&A to brainstorming, coding, and content generation.
 
@@ -11,14 +12,14 @@ OpenAI’s **ChatGPT** is one of the most powerful AI tools available for natura
 - **Brainstorming**: It can help you brainstorm creative ideas, marketing campaigns, or solutions for complex problems.
 - **Language Translation**: It supports multilingual communication and can help translate text into other languages.
 
-![[ChatGPT2.png]]
+![ChatGPT2](https://github.com/user-attachments/assets/cab9b940-8b92-44c5-a45f-59a78faaf628)
 
 **How ChatGPT Works:**
 - ChatGPT is based on advanced natural language processing algorithms developed by OpenAI.
 - It can understand context, answer questions, generate creative content, and even help with coding tasks.
 - I started by asking some casual questions to get familiar with its capabilities, and I was amazed by how seamlessly it responded.
 
-![[ChatGPT3.png]]
+![ChatGPT3](https://github.com/user-attachments/assets/8884e1f0-e88e-4f1c-8999-dc6fac445ffb)
 
 
 **My Experience Using ChatGPT:**
@@ -30,7 +31,7 @@ OpenAI’s **ChatGPT** is one of the most powerful AI tools available for natura
 
 4. **Assisting with Coding**: Being a developer, I was also curious about how ChatGPT could help with coding. I asked it to write a **Python** function for calculating the Fibonacci sequence, and it produced clean code that I could immediately use.
 
-![[ChatGPT4.png]]
+![ChatGPT4](https://github.com/user-attachments/assets/99df6e50-e405-4074-8b2b-5684588a5d5c)
 
 
 **Advantages of ChatGPT:**
