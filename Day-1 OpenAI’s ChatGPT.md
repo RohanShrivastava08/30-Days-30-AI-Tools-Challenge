@@ -2,7 +2,8 @@
 
 Today marks the beginning of my **30 Days, 30 AI Tools Challenge**! I’m starting with one of the most powerful AI tools out there – **OpenAI’s ChatGPT**. It’s an AI language model designed to generate human-like text and assist with various tasks. Let’s dive into what makes ChatGPT special and how it can be used in daily life.
 
-![[ChatGPT1.png]]
+![ChatGPT1](https://github.com/user-attachments/assets/45eb3d0b-696e-4f24-a557-5dbd119a0bfe)
+
 
 #### **What Makes ChatGPT Unique?**
 
@@ -15,7 +16,7 @@ It’s built on large-scale machine learning models, which means it can understa
 **Constant Improvement** 🔄
 OpenAI continually improves ChatGPT, making it more efficient and smarter with each update. The AI can learn from interactions, improving its responses over time.
 
-![[ChatGPT2.png]]
+![ChatGPT2](https://github.com/user-attachments/assets/f2a01261-6871-4258-ab1a-ee44f6f1ae7a)
 
 #### **How to Use ChatGPT in Daily Life**
 
@@ -30,7 +31,7 @@ Use ChatGPT for to-do lists, task management, and organizing your thoughts. It c
 **Learning Assistant** 📚
 If you’re studying or learning something new, ChatGPT can explain concepts, summarize texts, and answer questions in simple terms.
 
-![[ChatGPT3.png]]
+![ChatGPT3](https://github.com/user-attachments/assets/a0079c05-6c77-48c0-b531-4e457018a4c9)
 
 #### **Advantages vs. Disadvantages of ChatGPT**
 
@@ -48,7 +49,7 @@ If you’re studying or learning something new, ChatGPT can explain concepts, su
 **Limited Expertise**: May not offer deep insights in niche fields. 🔍
 **Requires Verification**: You need to double-check responses, especially for critical tasks. ✔️
 
-![[ChatGPT4.png]]
+![ChatGPT4](https://github.com/user-attachments/assets/62a6fec0-895a-4e2a-a1f8-8f581a6adda9)
 
 #### **How I Used ChatGPT Today**
 
