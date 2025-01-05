@@ -1,6 +1,6 @@
 Hugging Face is one of the most versatile platforms for AI and machine learning tools, providing access to a vast array of pre-trained models, datasets, and frameworks for natural language processing (NLP), computer vision, and more. Here's everything I explored today:
 
-![[HF1.png]]
+![HF1](https://github.com/user-attachments/assets/148d63c9-5028-4c76-bd10-751023e570b8)
 
 
 ### **What is Hugging Face?**
@@ -9,7 +9,7 @@ Hugging Face is one of the most versatile platforms for AI and machine learning 
 - It simplifies the integration of machine learning into applications using APIs and SDKs.
 - Hugging Face supports various tasks, including text summarization, question answering, image generation, and chatbot development.
 
-![[HF2.png]]
+![HF2](https://github.com/user-attachments/assets/f7986d6f-c0e4-4e4f-93e4-6a06aa7af0b4)
 
 ### **Why is Hugging Face Used?**
 1. ***Access to Pre-trained Models***: Hugging Face hosts thousands of pre-trained models, reducing the need to build models from scratch.
@@ -23,7 +23,7 @@ Hugging Face is one of the most versatile platforms for AI and machine learning 
 
 4. **Community and Documentation:**  Rich resources, examples, and a thriving community make learning and using AI simpler.
 
-![[HF3.png]]
+![HF3](https://github.com/user-attachments/assets/ffeb3e9a-dcba-453c-a4ff-aaf15e0acacb)
 
 ### **Unique Features of Hugging Face**
 
@@ -34,7 +34,7 @@ Hugging Face is one of the most versatile platforms for AI and machine learning 
 - **Model Hub:** Repository of pre-trained models for tasks like sentiment analysis, translation, and text generation.
 - **Chat Feature:** Includes conversational AI models like `meta-llama` for advanced chatbot implementations.
 
-![[HF4.png]]
+![HF4](https://github.com/user-attachments/assets/56496452-03f4-4507-8071-611bddd2106c)
 
 ### **Importance of Hugging Face in AI Development**
 
@@ -44,7 +44,7 @@ Hugging Face is one of the most versatile platforms for AI and machine learning 
 - Computer Vision: Object detection, image generation.
 - Audio: Speech recognition and generation.
 
-![[HF5.png]]
+![HF5](https://github.com/user-attachments/assets/9dfd57de-2ab9-4c2a-90e9-e9bb0e98fbd4)
 
 ### **What I Did Today**
 1. **Learned About Hugging Face Models and Spaces:**  Explored the `meta-llama/Llama-3.3-70B-Instruct` model for conversational AI using Hugging Face's Chat feature.
@@ -56,7 +56,7 @@ Hugging Face is one of the most versatile platforms for AI and machine learning 
 3. **Used Hugging Face Chat:**  Incorporated the `meta-llama/Llama-3.3-70B-Instruct` model for a chatbot that complements the text summarizer app.
 - Experimented with different conversational capabilities of the model.
 
-![[HF6.png]]
+![HF6](https://github.com/user-attachments/assets/c30742e6-8875-4bd6-ad02-94ea62a2331a)
 
 ### **Advantages and Disadvantages of Hugging Face**
 
