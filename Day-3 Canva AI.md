@@ -1,6 +1,7 @@
 Today, I delved into Canva’s AI tools and a few related tools for creative and content needs. Here's what I explored and learned:
 
-![[CanvaHome.png]]
+![CanvaHome](https://github.com/user-attachments/assets/a3d324f6-91f8-4a9c-8ec1-e8024acc061a)
+
 
 🖌️ **Canva AI Features I Used**
 
@@ -22,14 +23,19 @@ Today, I delved into Canva’s AI tools and a few related tools for creative and
 - Created an AI video using an avatar that spoke captions I wrote.
 - **Practical Use**: Great for creating personalized videos for social media or professional pitches.
 
-![[Canva1.png]]
+![Canva11](https://github.com/user-attachments/assets/957a5401-68fb-4a3f-8126-104f164a35fc)
+
+![Canva12](https://github.com/user-attachments/assets/26abfc6a-9d1f-4a2f-a878-fd4b87116a68)
 
 ### ✨ **Importance of Canva in Daily Life**
 
 - Canva has become an all-in-one creative tool that empowers users without prior design experience to create stunning visuals.
 - The integration of AI tools takes this a step further by enhancing productivity and creativity.
 
-![[Canva2.png]]
+![Canva13](https://github.com/user-attachments/assets/4dc3f841-f9d6-430f-8fe9-1a2c3adcad5b)
+
+![Canva14](https://github.com/user-attachments/assets/c09db01e-64b9-44fc-9012-910122dbadcb)
+
 
 ### 💡 **What’s Unique About Canva?**
 
@@ -38,7 +44,7 @@ Today, I delved into Canva’s AI tools and a few related tools for creative and
 - **Collaboration**: Team features make it great for working with others on projects.
 - **Cross-Platform**: Available as a web and mobile app for on-the-go edits.
 
-![[Canva3.png]]
+![Canva5](https://github.com/user-attachments/assets/f08f6474-2664-45b4-b532-36a66d609d79)
 
 
 ### ✅ **Advantages**
@@ -50,7 +56,9 @@ Today, I delved into Canva’s AI tools and a few related tools for creative and
 | AI-Integrated Tools | Saves time and enhances creativity.                 |
 | User-Friendly       | Easy to use for all levels of expertise.            |
 
-![[Canva5.png]]
+
+![Canva6](https://github.com/user-attachments/assets/5cf0b99b-d790-4b90-8321-357b7566f6ca)
+
 
 ### ❌ **Disadvantages**
 
@@ -61,7 +69,8 @@ Today, I delved into Canva’s AI tools and a few related tools for creative and
 |AI Customization|Limited fine-tuning compared to standalone tools like Photoshop.|
 
 
-![[Canva6.png]]
+![Canva7](https://github.com/user-attachments/assets/77998de8-cb14-4385-9c86-79bfa9aefb74)
+
 
 ### **🚀 How to Use Canva AI in Daily Life**
 
@@ -74,7 +83,7 @@ Today, I delved into Canva’s AI tools and a few related tools for creative and
 4. **For Professional Videos**  
 - Combine designs with HeyGen avatars for impactful content.
 
-![[Canva7.png]]
+![Canva8](https://github.com/user-attachments/assets/d8b58b84-66bd-40a3-8ee5-bbeca8616ae7)
 
 ### 🎓 **What I Learned Today**
 
@@ -82,10 +91,10 @@ Today, I delved into Canva’s AI tools and a few related tools for creative and
 - Exploring multiple AI tools expands creative possibilities and reduces manual effort.
 - Integrating tools like HeyGen and DALL·E into Canva amplifies its potential.
 
-![[Canva8.png]]
+![Canva9](https://github.com/user-attachments/assets/df53b81a-3294-4001-a826-b9894484c35f)
 
 ### 📌 **Conclusion**
 
 Canva’s AI tools are perfect for creators looking to simplify and enhance their work. They cater to a variety of needs—from writing and design to video production. This exploration has taught me how AI can empower creativity and efficiency in daily tasks.
 
-![[Canva9.png]]
+![Canva10](https://github.com/user-attachments/assets/9425c053-ec15-4166-939f-0216b412b41c)
