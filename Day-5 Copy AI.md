@@ -1,4 +1,4 @@
-![Copy1](https://github.com/user-attachments/assets/0a7d13b2-0e12-499d-8369-49b2e0bc1d3b)
+![Copy1](https://github.com/user-attachments/assets/24f26fba-f328-4bad-a932-55cc1b53b069)
 
 ### 🌀 **What is Copy.ai?**
 
