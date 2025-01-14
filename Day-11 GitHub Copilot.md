@@ -1,8 +1,10 @@
 #### 🧑‍💻 What is GitHub Copilot?
 
-GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. It uses OpenAI’s Codex model to suggest code snippets, generate functions, and provide explanations while coding. It integrates directly into your favorite code editors, such as **VS Code**, making it an indispensable tool for developers.
+GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI.
+It uses OpenAI’s Codex model to suggest code snippets, generate functions, and provide explanations while coding.
+It integrates directly into your favorite code editors, such as **VS Code**, making it an indispensable tool for developers.
 
-
+![Copilot1](https://github.com/user-attachments/assets/2dc3a153-8bc3-4a4b-9a6b-1afa6311e001)
 
 #### ✨ Why Use GitHub Copilot?
 
@@ -12,7 +14,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 4. **Supports Multiple Languages**: Compatible with Python, JavaScript, Go, Ruby, C++, and more.
 5. **Simplifies Repetitive Tasks**: Automates boilerplate code generation, enabling you to focus on core logic.
 
-
+![Copilot2](https://github.com/user-attachments/assets/0f02a802-a7d1-462c-b4f9-98a2c663e96a)
 
 #### 🛠️ What’s Unique About GitHub Copilot?
 
@@ -21,7 +23,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 - **Seamless Integration**: Embeds directly into VS Code or other supported editors for a smooth coding experience.
 - **README and Documentation Help**: Can auto-generate README.md files or other documentation, reducing manual effort.
 
-
+![Copilot3](https://github.com/user-attachments/assets/6039d58f-e805-4ae8-848f-897c0154f2c3)
 
 #### 🗓️ How to Use It in Day-to-Day Life?
 
@@ -31,7 +33,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 - **Generate Documentation**: Automate project descriptions and usage details.
 - **Collaborative Coding**: Use it as a brainstorming partner for algorithms or solutions.
 
-
+![Copilot4](https://github.com/user-attachments/assets/23ec438e-7364-4592-858e-594115c437af)
 
 #### 🚀 Steps to Use GitHub Copilot in VS Code
 
@@ -46,7 +48,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 5. **Switch Models (Optional)**:
 - Experiment with **o1-mini pro** or **GPT-4.0** for different coding experiences.
 
-
+![Copilot5](https://github.com/user-attachments/assets/6dae0908-fb0a-434a-b58a-d4b151ee8f0f)
 
 #### 🔍 What I Tried
 
@@ -55,7 +57,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 - Used it to draft a detailed **README.md file** for my project.
 - Experimented with different models to observe variation in suggestions.
 
-
+![Copilot6](https://github.com/user-attachments/assets/1af02108-453e-48f3-948c-342d1bb28c35)
 
 #### 📚 What I Learned
 
@@ -64,7 +66,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 - The model’s ability to understand **context** makes code suggestions highly relevant.
 - It’s a helpful tool for documentation creation and improving project clarity.
 
-
+![Copilot7](https://github.com/user-attachments/assets/9208c8fd-e082-424d-a429-1d329fbeb231)
 
 #### ✅ Advantages
 
@@ -74,7 +76,6 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 - Offers a variety of models for tailored coding experiences.
 
 
-
 #### ❌ Disadvantages
 
 - **Limited Free Access**: Requires a subscription after the trial period unless eligible for free use.
@@ -82,7 +83,7 @@ GitHub Copilot is an AI-powered code assistant developed by GitHub and OpenAI. I
 - **Occasional Irrelevant Suggestions**: Requires validation of generated code.
 - **Privacy Concerns**: Sharing sensitive or proprietary code on cloud-based tools may be a concern.
 
-
+![Copilot8](https://github.com/user-attachments/assets/ad2d0d31-de7b-4278-9219-2f9f58df47ce)
 
 #### 🏁 Conclusion
 
