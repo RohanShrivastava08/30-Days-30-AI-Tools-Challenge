@@ -1,12 +1,13 @@
 I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build engaging, interactive, and functional chatbots. Here's a detailed breakdown of my experience and insights:
 
-
+![Kuki1](https://github.com/user-attachments/assets/576251a3-62f5-4f9c-9e90-78e061f8cf84)
 
 ### **What is KukiAI Chatbot and BotPenguin?**
 
 - **KukiAI Chatbot**: An advanced conversational AI chatbot, known for its engaging human-like responses.
 - **BotPenguin**: A chatbot platform that allows you to create custom chatbots using pre-built templates, train them with your data, and deploy them on websites, apps, or as standalone landing pages.
 
+![Kuki2](https://github.com/user-attachments/assets/027b66d9-dc6d-4af8-89b6-41517108c051)
 
 
 ### **Why Use KukiAI Chatbot and BotPenguin?**
@@ -17,7 +18,7 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 4. **Omnichannel Integration**: Deploy chatbots on websites, apps, or third-party platforms.
 5. **Lead Generation & Automation**: Automate customer queries, appointment bookings, and marketing campaigns.
 
-
+![Kuki3](https://github.com/user-attachments/assets/6d8f5d9a-8648-43ad-8043-02cf73e55dfa)
 
 ### **How is It Different from Others?**
 
@@ -26,7 +27,7 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 - **Custom AI Training**: Unlike many platforms, it allows personalized training using your data sources.
 - **Versatility**: Supports multiple use cases such as lead generation, marketing automation, and customer support.
 
-
+![Kuki4](https://github.com/user-attachments/assets/fbe73953-ddbe-4c2a-b129-03a7bea2db11)
 
 ### **Steps to Work with KukiAI Chatbot and BotPenguin**
 
@@ -47,7 +48,7 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 - Interact with the chatbot to identify any gaps.
 - Use analytics to optimize its performance.
 
-
+![Kuki5](https://github.com/user-attachments/assets/8e51e14a-987c-4c60-8631-d07734415316)
 
 ### **How to Use It in Daily Life**
 
@@ -57,7 +58,7 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 - **Appointment Scheduling**: Allow users to book appointments seamlessly through the bot.
 - **Education & Training**: Use bots for tutoring, answering queries, or onboarding new users.
 
-
+![Kuki6](https://github.com/user-attachments/assets/5b4c8bcf-c5f2-43a6-927f-4cd960c0f3a3)
 
 ### **What I Tried**
 
@@ -66,7 +67,7 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 3. **Integration with ChatGPT**: Explored how to embed ChatGPT for deeper conversational AI.
 4. **Customization**: Designed chatbot flows and personalized user interactions.
 
-
+![Kuki7](https://github.com/user-attachments/assets/49630147-aa4e-4f76-aa1f-bad1c21c726c)
 
 ### **What I Learned**
 
@@ -74,7 +75,7 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 - Customizing bots allows for a more engaging and functional user experience.
 - AI integration enhances the bot’s ability to handle complex queries.
 
-
+![Kuki8](https://github.com/user-attachments/assets/097bf357-10f3-4ead-9975-2efa6761ed83)
 
 ### **Advantages**
 
@@ -84,14 +85,13 @@ I recently explored **KukiAI Chatbot** integrated with **BotPenguin** to build e
 4. **Affordable**: Free plan available for basic use, with paid options for advanced features.
 
 
-
 ### **Disadvantages**
 
 1. **Limited Free Plan**: Only one bot can be created in the free version.
 2. **Advanced Features Require Payment**: Customizations like multi-channel integration need a premium plan.
 3. **Learning Curve**: Some features, like AI training, may require time to master.
 
-
+![Kuki9](https://github.com/user-attachments/assets/e8101c68-8bb4-4a4c-8a84-38d18d47943a)
 
 ### **Conclusion**
 
