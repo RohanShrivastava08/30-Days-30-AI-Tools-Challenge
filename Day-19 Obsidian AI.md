@@ -2,12 +2,13 @@
 
 Obsidian is a powerful and flexible knowledge management tool designed to organize, connect, and visualize information seamlessly. It works as a markdown-based note-taking app, offering features like **bidirectional linking**, a **graph view**, and a wide range of plugins for enhanced functionality. Its focus on creating a "second brain" makes it ideal for managing knowledge in a personalized and effective way.
 
-
+![Obsidian1](https://github.com/user-attachments/assets/eda7a1ab-f296-4fe0-842b-fc09257cd135)
 
 ### Why Use Obsidian?
 
 Obsidian stands out because of its **customizability** and ability to create interlinked notes that mimic the way our brains work. It’s perfect for students, researchers, professionals, and creators looking to store, organize, and retrieve information quickly. Its offline-first approach ensures your data is secure while giving you the freedom to add plugins for unique workflows. Whether you need a **daily journal**, a **project manager**, or a **personal wiki**, Obsidian adapts to your needs.
 
+![Obsidian2](https://github.com/user-attachments/assets/1e3629ae-c8ab-447e-8902-1f6b6787c9d1)
 
 
 ### How to Use Obsidian
@@ -23,7 +24,7 @@ Obsidian stands out because of its **customizability** and ability to create int
 1. **Canvas Feature**: Arrange and connect your ideas visually for brainstorming and planning.
 2. **Markdown Syntax**: Leverage markdown for easy formatting, tables, and embedding content.
 
-
+![Obsidian3](https://github.com/user-attachments/assets/8bac64db-24f8-4ba9-874a-3019a93e7c70)
 
 ### How is it Different from Others?
 
@@ -32,7 +33,7 @@ Obsidian stands out because of its **customizability** and ability to create int
 - **Open Ecosystem**: The wide range of plugins makes Obsidian a dynamic, evolving tool.
 - **Graph View**: A unique visualization that helps map out your thoughts and ideas.
 
-
+![Obsidian4](https://github.com/user-attachments/assets/c37311dd-6dfb-4318-9e8c-2e68ce736791)
 
 ### How to Use it in Daily Life
 
@@ -41,6 +42,7 @@ Obsidian stands out because of its **customizability** and ability to create int
 - **Content Creation**: Plan blogs, scripts, or projects.
 - **Learning Tool**: Build a web of interconnected notes to study concepts deeply.
 
+![Obsidian5](https://github.com/user-attachments/assets/b50196ba-6d09-45f3-bd48-a04e8654c700)
 
 
 ### What I Tried
@@ -51,7 +53,7 @@ Obsidian stands out because of its **customizability** and ability to create int
 4. Experimented with the **Canvas Feature** to arrange and visualize ideas.
 5. Leveraged AI to summarize notes and chat about content efficiently.
 
-
+![Obsidian6](https://github.com/user-attachments/assets/50bcf849-2b51-4ee4-b681-e7c89ce25857)
 
 ### What I Learned
 
@@ -59,7 +61,7 @@ Obsidian stands out because of its **customizability** and ability to create int
 - The **Canvas feature** is fantastic for visual thinkers who need a flexible way to manage ideas.
 - Obsidian’s **plugin ecosystem** opens endless possibilities to tailor the tool to your needs.
 
-
+![Obsidian7](https://github.com/user-attachments/assets/3bb265ba-e455-4964-8670-ee3de0211b48)
 
 ### Advantages
 
@@ -69,7 +71,7 @@ Obsidian stands out because of its **customizability** and ability to create int
 4. **Markdown-Based**: Simple and universal formatting.
 5. **AI Integration**: Advanced summarization and chat capabilities.
 
-
+![Obsidian8](https://github.com/user-attachments/assets/a2dfccf7-e818-462a-8536-4b60e9a4142f)
 
 ### Disadvantages
 
@@ -78,7 +80,13 @@ Obsidian stands out because of its **customizability** and ability to create int
 3. **Limited Collaboration**: Obsidian isn’t ideal for real-time collaboration like Notion.
 
 
+![Obsidian9](https://github.com/user-attachments/assets/e94428fd-c258-44bc-a2c6-d3d0f8c83863)
 
 ### Conclusion
 
-Obsidian is a powerhouse for anyone looking to organize information effectively. Its **flexibility**, **offline-first approach**, and **AI-powered features** make it an indispensable tool for professionals, students, and creators. The more I explore its capabilities, the more I realize its potential to transform how I manage and interact with my knowledge. If you want a tool that grows with you, Obsidian is the way to go!
+Obsidian is a powerhouse for anyone looking to organize information effectively.
+Its **flexibility**, **offline-first approach**, and **AI-powered features** make it an indispensable tool for professionals, students, and creators.
+The more I explore its capabilities, the more I realize its potential to transform how I manage and interact with my knowledge.
+If you want a tool that grows with you, Obsidian is the way to go!
+
+![Obsidian10](https://github.com/user-attachments/assets/cb9b9a7e-b199-47bc-884c-2d6e87649263)
