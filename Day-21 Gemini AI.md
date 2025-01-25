@@ -5,6 +5,7 @@
 - It can assist in coding, document analysis, image recognition, text summarization, and creative content generation.
 - Gemini AI is part of Google’s vision to redefine how we interact with AI, offering unique capabilities like interpreting and generating multimedia content, extracting structured data, and aiding in professional tasks with precision.
 
+![Gemini1](https://github.com/user-attachments/assets/c8716038-960a-4dfc-a24b-045517b3b9e6)
 
 
 ## How to Use Google Gemini AI
@@ -23,6 +24,7 @@
 - For professionals: Summarize reports, presentations, or notes.
 - For creators: Generate artwork, analyze images, and brainstorm ideas.
 
+![Gemini2](https://github.com/user-attachments/assets/eadd00ff-bc18-4c38-abc2-3c4b4b864899)
 
 
 ## Why Use Google Gemini AI?
@@ -32,6 +34,7 @@
 - **Efficiency**: Speeds up processes like data extraction, coding, and document analysis.
 - **Integration**: Works seamlessly with Google’s ecosystem, enhancing productivity tools like Workspace.
 
+![Gemini3](https://github.com/user-attachments/assets/4b22268c-ddb2-44c2-aafc-e3ba1eea382c)
 
 
 ## What’s Different About Google Gemini AI?
@@ -41,6 +44,7 @@
 - **Real-World Application**: Supports tasks like data analysis, content creation, and decision-making with real-world impact.
 
 
+![Gemini4](https://github.com/user-attachments/assets/5a3788cb-d349-4ca1-b7e3-63e4f350dd45)
 
 ## What I Tried and Learned
 
@@ -52,13 +56,16 @@
 4. **Image Generation**: Produced visuals using text prompts.
 5. **Image Explanation**: Gained insights and descriptions of uploaded images.
 
+![Gemini5](https://github.com/user-attachments/assets/927e4be2-e30c-4ba5-9382-47f74c8b945e)
+
+
 ### What I Learned:
 
 - The AI is exceptionally accurate in coding tasks, especially in debugging and optimization.
 - The image generation feature provides creative outputs but has some limitations compared to dedicated image AI tools.
 - Text summarization was context-aware and precise, making it ideal for professional use.
 
-
+![Gemini6](https://github.com/user-attachments/assets/9937c034-7991-4428-a88a-7c8096012113)
 
 ## Advantages of Google Gemini AI
 
@@ -67,6 +74,7 @@
 - **Creative Outputs**: Encourages innovation with its multimodal capabilities.
 - **Enhanced Productivity**: Saves time by automating complex tasks.
 
+![Gemini7](https://github.com/user-attachments/assets/373edf77-a3ba-427b-99ed-bd6066a86ea7)
 
 
 ## Disadvantages of Google Gemini AI
@@ -75,6 +83,7 @@
 - **Learning Curve**: Requires initial effort to explore and maximize its potential.
 - **Dependency**: Heavy reliance on Google’s ecosystem for integration.
 
+![Gemini9](https://github.com/user-attachments/assets/4a8d7ecb-7efd-47a5-994c-5c71d96454af)
 
 
 ## Conclusion
@@ -82,3 +91,7 @@
 - Google Gemini AI is a versatile tool that redefines how we use AI in daily life, combining the power of LLMs with multimodal capabilities.
 - Whether you’re a developer, content creator, or professional, Gemini AI offers a unique edge in productivity, creativity, and efficiency.
 - While it has a few limitations, its potential for innovation makes it a must-try tool in the AI space.
+
+![Gemini11](https://github.com/user-attachments/assets/8406624b-366b-49fe-a480-de3f4df4b580)
+
+  
