@@ -1,7 +1,9 @@
 ## 30-Day 30 AI Tools Challenge 🚀
 
 Welcome to the 30-Day 30 AI Tools Challenge! 🎉 
+
 This challenge was designed to explore and experiment with 30 different AI tools in 30 days, 
+
 covering a wide range of applications in content creation, automation, productivity, design, and more.
 
 ![logo](https://github.com/user-attachments/assets/0675d0e8-0153-4040-b6b5-6594761bbef9)
